@@ -1,6 +1,6 @@
 # Springboot_project_bookStore
 
-This is a small toy project. 
+This is a small toy project for studying.
 This project is about BookStore with CRUD.
 
 I can register new books and can see available books and edit delete books.
