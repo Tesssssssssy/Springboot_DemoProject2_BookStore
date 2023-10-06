@@ -5,13 +5,19 @@ This project is about BookStore with CRUD.
 
 I can register new books and can see available books and edit delete books.
 
-![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/136bc5fe-ad3b-4771-9054-abb30e107b58)
+### Main Home
+![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/71e397a6-a0c1-4514-8bd3-224cbd5de875)
 
-![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/7297e7bf-98cd-4b93-8822-aefdf4de1bfa)
+### I can register new book.
+![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/4fc79b62-8932-46f9-ab48-657e2aed1e8b)
 
-![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/7bb391ba-cb2b-4187-adb7-57c622c6e08a)
+### I can see available books.
+![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/df3982c1-4c65-425c-86d5-89c402031da8)
 
-![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/64506b29-0042-42be-98be-b628d51ca83d)
+### I can edit books.
+![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/9d58fb83-8c7e-47a4-8f23-2f66acdf121d)
 
-![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/787fbffb-5fce-42a4-bc8e-187850d557ff)
+### I can see my books.
+![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/76ba3c65-6170-46d0-8954-59a15041c85b)
+
 
