@@ -5,7 +5,7 @@ This project is about BookStore with CRUD.
 
 I can register new books and can see available books and edit delete books.
 
-![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/80a11dfc-667e-4e0d-8e81-9bea0e04faff)
+![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/136bc5fe-ad3b-4771-9054-abb30e107b58)
 
 ![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/7297e7bf-98cd-4b93-8822-aefdf4de1bfa)
 
