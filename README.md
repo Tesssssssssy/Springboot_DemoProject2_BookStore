@@ -5,7 +5,7 @@ This project is about BookStore with CRUD.
 
 I can register new books and can see available books and edit delete books.
 
-### 개발환경
+### Development Environment
 - IDE: IntelliJ
 - java 17
 - Springboot JPA
