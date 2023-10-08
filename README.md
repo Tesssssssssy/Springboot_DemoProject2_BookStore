@@ -5,6 +5,14 @@ This project is about BookStore with CRUD.
 
 I can register new books and can see available books and edit delete books.
 
+### 개발환경
+- IDE: IntelliJ
+- java 17
+- Springboot JPA
+- Springboot Thymeleaf
+- MYSQL
+- Maven
+
 ### Main Home
 ![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/71e397a6-a0c1-4514-8bd3-224cbd5de875)
 
