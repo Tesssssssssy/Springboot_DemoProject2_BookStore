@@ -22,7 +22,7 @@ I can register new books and can see available books and edit delete books.
 ### I can see available books.
 ![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/df3982c1-4c65-425c-86d5-89c402031da8)
 
-### I can edit books.
+### I can edit and delete books.
 ![image](https://github.com/Tesssssssssy/Springboot_project_bookStore/assets/105422037/9d58fb83-8c7e-47a4-8f23-2f66acdf121d)
 
 ### I can see my books.
